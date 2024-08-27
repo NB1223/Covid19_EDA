@@ -5,7 +5,7 @@ Links to datasets:
 2. https://health.google.com/covid-19/open-data/raw-data
 
 Important libraries required are:
-1.NumPy
-2.Pandas
-3.GeoPandas
-4.MatPlotLib
+1. NumPy
+2. Pandas
+3. GeoPandas
+4. MatPlotLib
